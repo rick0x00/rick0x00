@@ -18,27 +18,25 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
 
 ### Contacts/Contatos 📞
 
-* GitHub
-* GitLab
-* DuoLingo
+* [GitHub](https://github.com/silvajhb)
+* [GitLab](https://gitlab.com/silvajhb)
+* [DuoLingo](https://pt.duolingo.com/profile/silvajhb)
 * [Instagram](https://www.instagram.com/silicon4007)
-* Twitter: 
-* Telegram
-* Twitch: https://twitch.tv/silvajhb
-* YouTube: https://youtube.com/c/
-* LinkedIn: https://www.linkedin.com/in/silvajhb
+* [Twitter](https://twitter.com/silicon4007) 
+* [Telegram](https://t.me/silvajhb)
+* [Twitch](https://twitch.tv/silvajhb)
+* [YouTube](https://youtube.com/c/)
+* [LinkedIn](https://www.linkedin.com/in/silvajhb)
 
-### ✨ Github Stats ✨
-
-<p align="center">
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=tokyonight" />
-</p>
+### Github Stats ✨
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=tokyonight&langs_count=10" />
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=highcontrast" />
 </p>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
+</p>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30"/>
