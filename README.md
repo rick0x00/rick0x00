@@ -1,43 +1,3 @@
-### Hi there 👋🏾
-My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover, lives in Arapiraca(Alagoas/Brazil🇧🇷).
-
-### LIKES 👍🏾
-
-* 🔬 Science Search
-* 🔋 Electronic
-* 🔌 Electric
-* ⚡ High Voltage
-* 💡 Tesla Coils
-* 👾 Hardware Hacking
-* 🖥️ Computing
-* ⌨️ Programming
-* ⌨ Software Hacking 
-* 🛰️ Satellites
-* 📡 Satellite Dishes
-* 🦾 Automation
-
-### Contacts/Contatos 📞
-
-* [GitHub](https://github.com/silvajhb)
-* [GitLab](https://gitlab.com/silvajhb)
-* [DuoLingo](https://pt.duolingo.com/profile/silvajhb)
-* [Instagram](https://www.instagram.com/silicon4007)
-* [Twitter](https://twitter.com/silicon4007) 
-* [Telegram](https://t.me/silvajhb)
-* [Twitch](https://twitch.tv/silvajhb)
-* [YouTube](https://youtube.com/c/)
-* [LinkedIn](https://www.linkedin.com/in/silvajhb)
-
-### Github Stats ✨
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=highcontrast" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=highcontrast" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
-</p>
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="30" height="30"/>
@@ -64,6 +24,60 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
 </div>
+<h3 align="center">
+  Welcome to Henrique profile!
+</h3>
+
+### Hi there 👋🏾
+My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover, lives in Arapiraca(Alagoas/Brazil🇧🇷).
+
+### Github Stats ✨
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=highcontrast" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=highcontrast" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
+</p>
+<p align="center">
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=silvajhb&theme=react-dark" />
+</p>
+
+<details> 
+ <summary>LIKES 👍🏾</summary>
+  <br/>
+    <a>🔬 Science Search </a>
+    <a>🔋 Electronic </a>
+    <a>🔌 Electric </a>
+    <a>⚡ High Voltage </a>
+    <a>💡 Tesla Coils </a>
+    <a>👾 Hardware Hacking </a>
+    <a>🖥️ Computing </a>
+    <a>⌨️ Programming </a>
+    <a>⌨ Software Hacking </a>
+    <a>🛰️ Satellites </a>
+    <a>📡 Satellite Dishes </a>
+    <a>🦾 Automation </a>
+  <br/>
+</details>
+
+<details> 
+ <summary>Contacts 📞</summary>
+  <br/>
+    <a href="https://github.com/silvajhb" target="_blanck">GitHub</a>
+    <a href="https://gitlab.com/silvajhb" target="_blanck">GitLab</a>
+    <a href="https://pt.duolingo.com/profile/silvajhb" target="_blanck">Duolingo</a>
+    <a href="https://www.instagram.com/silicon4007" target="_blanck">Instagram</a>
+    <a href="https://twitter.com/silicon4007" target="_blanck">Twitter</a>
+    <a href="https://twitch.tv/silvajhb" target="_blanck">Twitch</a>
+    <a href="https://t.me/silvajhb" target="_blanck">Telegram</a>
+    <a href="https://www.linkedin.com/in/silvajhb" target="_blanck">Linkedin</a>
+    <a href="https://youtube.com/c" target="_blanck">YouTube</a>
+  <br/>
+</details>
+
 <!--
 **silvajhb/silvajhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
