@@ -31,14 +31,14 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
 ### Github Stats ✨
 
 <p align="center">
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=highcontrast" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=highcontrast" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=highcontrast" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
 </p>
 
-<div>
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="30" height="30"/>
@@ -64,7 +64,6 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
 </div>
-
 <!--
 **silvajhb/silvajhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
