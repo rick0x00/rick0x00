@@ -78,6 +78,12 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
   <br/>
 </details>
 
+<hr></hr>
+
+<p align="center"> Visitas a partir de Out/2021 <br>
+  <img src="https://profile-counter.glitch.me/silvajhb/count.svg" />
+</p>
+
 <!--
 **silvajhb/silvajhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
