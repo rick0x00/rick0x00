@@ -48,18 +48,7 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
 <details> 
  <summary>LIKES 👍🏾</summary>
   <br/>
-    <a>🔬 Science Search </a>
-    <a>🔋 Electronic </a>
-    <a>🔌 Electric </a>
-    <a>⚡ High Voltage </a>
-    <a>💡 Tesla Coils </a>
-    <a>👾 Hardware Hacking </a>
-    <a>🖥️ Computing </a>
-    <a>⌨️ Programming </a>
-    <a>⌨ Software Hacking </a>
-    <a>🛰️ Satellites </a>
-    <a>📡 Satellite Dishes </a>
-    <a>🦾 Automation </a>
+#Science #Search 🔬 #technology in general, #hardware 🤖, #software 🧮 , #computing 💻 , #Electronic🔋, #Electric 🔌, #High_Voltage ⚡, #Tesla_Coils ⚡, # robots 🦾, #Automation 🦿, #Telecommunications 📻, #Satellites 🛰️, #Satellite_Dishes 📡, #Hacking 👾 and #Security 🔐.
   <br/>
 </details>
 
