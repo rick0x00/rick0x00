@@ -34,15 +34,15 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
 ### Github Stats ✨
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvajhb&theme=highcontrast" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rick0x00&theme=highcontrast" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvajhb&show_icons=true&theme=highcontrast" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajhb&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rick0x00&show_icons=true&theme=highcontrast" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick0x00&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
 </p>
 <p align="center">
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=silvajhb&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=rick0x00&theme=react-dark" />
 </p>
 
 <details> 
@@ -55,22 +55,22 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
 <details> 
  <summary>Contacts 📞</summary>
   <br/>
-    <a href="https://github.com/silvajhb" target="_blanck">GitHub</a>
-    <a href="https://gitlab.com/silvajhb" target="_blanck">GitLab</a>
+    <a href="https://github.com/rick0x00" target="_blanck">GitHub</a>
+    <a href="https://gitlab.com/rick0x00" target="_blanck">GitLab</a>
     <a href="https://pt.duolingo.com/profile/silvajhb" target="_blanck">Duolingo</a>
     <a href="https://www.instagram.com/silicon4007" target="_blanck">Instagram</a>
-    <a href="https://twitter.com/silicon4007" target="_blanck">Twitter</a>
-    <a href="https://twitch.tv/silvajhb" target="_blanck">Twitch</a>
+    <a href="https://twitter.com/rick0x00" target="_blanck">Twitter</a>
+    <a href="https://twitch.tv/rick0x00" target="_blanck">Twitch</a>
     <a href="https://t.me/silvajhb" target="_blanck">Telegram</a>
-    <a href="https://www.linkedin.com/in/silvajhb" target="_blanck">Linkedin</a>
-    <a href="https://youtube.com/c" target="_blanck">YouTube</a>
+    <a href="https://www.linkedin.com/in/rick0x00" target="_blanck">Linkedin</a>
+    <a href="https://youtube.com/" target="_blanck">YouTube</a>
   <br/>
 </details>
 
 <hr></hr>
 
 <p align="center"> Visitas a partir de Out/2021 <br>
-  <img src="https://profile-counter.glitch.me/silvajhb/count.svg" />
+  <img src="https://profile-counter.glitch.me/rick0x00/count.svg" />
 </p>
 
 <!--
