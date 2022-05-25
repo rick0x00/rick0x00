@@ -37,8 +37,8 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
   <img width="auto" height="350vw" src="https://github-readme-streak-stats.herokuapp.com/?user=rick0x00&theme=highcontrast" />
 </p>
 <p align="center" width="auto">
-  <img width="auto" height="225vw" src="https://github-readme-stats.vercel.app/api?username=rick0x00&show_icons=true&theme=highcontrast" />
-  <img width="auto" height="225vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick0x00&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
+  <img width="auto" height="200vw" src="https://github-readme-stats.vercel.app/api?username=rick0x00&show_icons=true&theme=highcontrast" />
+  <img width="auto" height="200vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick0x00&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
 </p>
 <p align="center">
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -58,12 +58,11 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
     <a href="https://github.com/rick0x00" target="_blanck">GitHub</a>
     <a href="https://gitlab.com/rick0x00" target="_blanck">GitLab</a>
     <a href="https://pt.duolingo.com/profile/silvajhb" target="_blanck">Duolingo</a>
-    <a href="https://www.instagram.com/silicon4007" target="_blanck">Instagram</a>
+    <a href="https://www.instagram.com/rick0x00" target="_blanck">Instagram</a>
     <a href="https://twitter.com/rick0x00" target="_blanck">Twitter</a>
     <a href="https://twitch.tv/rick0x00" target="_blanck">Twitch</a>
-    <a href="https://t.me/silvajhb" target="_blanck">Telegram</a>
+    <a href="https://t.me/rick0x00" target="_blanck">Telegram</a>
     <a href="https://www.linkedin.com/in/rick0x00" target="_blanck">Linkedin</a>
-    <a href="https://youtube.com/" target="_blanck">YouTube</a>
   <br/>
 </details>
 
