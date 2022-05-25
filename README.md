@@ -34,11 +34,11 @@ My name is Henrique Silva, Electro-Electronic technical(IFAL), Technology Lover,
 ### Github Stats ✨
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rick0x00&theme=highcontrast" />
+  <img width="auto" height="350vw" src="https://github-readme-streak-stats.herokuapp.com/?user=rick0x00&theme=highcontrast" />
 </p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rick0x00&show_icons=true&theme=highcontrast" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick0x00&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
+<p align="center" width="auto">
+  <img width="auto" height="225vw" src="https://github-readme-stats.vercel.app/api?username=rick0x00&show_icons=true&theme=highcontrast" />
+  <img width="auto" height="225vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick0x00&hide=html&layout=compact&theme=highcontrast&langs_count=10" />
 </p>
 <p align="center">
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
